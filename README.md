@@ -6,8 +6,8 @@
 
 仅供参考
 
-![](https://github.com/MyNameZhangXinMiao/MaterialResources/blob/main/%E4%BB%BF%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%BC%94%E7%BB%8E1.gif)
+![](https://gitee.com/zhangxmsy/MaterialResources/blob/main/仿微信朋友圈演绎1.gif)
 
-![](https://github.com/MyNameZhangXinMiao/MaterialResources/blob/main/%E4%BB%BF%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%BC%94%E7%BB%8E%E8%A7%86%E9%A2%912.gif)
+![](https://gitee.com/zhangxmsy/MaterialResources/blob/main/仿微信朋友圈演绎2.gif)
 
-![](https://github.com/MyNameZhangXinMiao/MaterialResources/blob/main/%E4%BB%BF%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%BC%94%E7%BB%8E%E8%A7%86%E9%A2%913.gif)
+![](https://gitee.com/zhangxmsy/MaterialResources/blob/main/仿微信朋友圈演绎3.gif)
