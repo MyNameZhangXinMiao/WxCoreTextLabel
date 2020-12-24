@@ -8,6 +8,6 @@
 
 ![](https://gitee.com/zhangxmsy/MaterialResources/blob/main/仿微信朋友圈演绎1.gif)
 
-![](https://gitee.com/zhangxmsy/MaterialResources/blob/main/仿微信朋友圈演绎2.gif)
+![](https://gitee.com/zhangxmsy/MaterialResources/blob/main/仿微信朋友圈演绎视频2.gif)
 
-![](https://gitee.com/zhangxmsy/MaterialResources/blob/main/仿微信朋友圈演绎3.gif)
+![](https://gitee.com/zhangxmsy/MaterialResources/blob/main/仿微信朋友圈演绎视频3.gif)
