@@ -6,8 +6,8 @@
 
 仅供参考
 
-![dd](https://gitee.com/zhangxmsy/MaterialResources/blob/main/仿微信朋友圈演绎1.gif)
+![dd](https://upload-images.jianshu.io/upload_images/9778944-9ccd06fba291270f.gif?imageMogr2/auto-orient/strip)
 
-![dd](https://gitee.com/zhangxmsy/MaterialResources/blob/main/仿微信朋友圈演绎视频2.gif)
+![dd](https://upload-images.jianshu.io/upload_images/9778944-ae62939646475d33.gif?imageMogr2/auto-orient/strip)
 
-![dd](https://gitee.com/zhangxmsy/MaterialResources/blob/main/仿微信朋友圈演绎视频3.gif)
+![dd](https://upload-images.jianshu.io/upload_images/9778944-ff08fb7807195d3c.gif?imageMogr2/auto-orient/strip)
